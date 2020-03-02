@@ -7,7 +7,7 @@ This is where you can find all of the NaturlFoundation projets including **natur
 
 The NaturL Foundation was founded by 4 [EPITA](http://epita.fr) students during the second semester of their first year. It began as a projet assignement and quickly became sort of an obsession. 
 
-We had been taught OCaml a few months earlier and all the founding members had a secret love for the OCaml language, which was kindo of a taboo here in EPITA.
+We had been taught OCaml a few months earlier and all the founding members had a secret love for the OCaml language, which was kind of a taboo here in EPITA.
 
 The first project we immagined was a new programming language called **abL** (*Abstractly Built Language*) which we abbandoned a few weeks. Later we tried to create a program that could translate french algorithm natural code into python script and thus began our journey to build **naturL**
 
@@ -23,9 +23,12 @@ We plan to expand this project list with **abL** and maybe various projects, wri
 ## The team 
 
 Founders : 
-![simon] (/assets/simon.png "Simon Scatton")
-![vlad] (/assets/vlad.png "Vlad Argatu")
-![rostan] (/assets/rostan.png "Rostan Tabet")
-![adrian] (/assets/adrian.png "Adrian Le-Comte")
 
+![simon](assets/simon.png "Simon Scatton")
+
+![vlad](assets/vlad.png "Vlad Argatu")
+
+![rostan](assets/rostan.png "Rostan Tabet")
+
+![adrian](assets/adrian.png "Adrian Le-Comte")
 

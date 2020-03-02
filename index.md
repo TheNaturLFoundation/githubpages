@@ -24,8 +24,8 @@ We plan to expand this project list with **abL** and maybe various projects, wri
 
 Founders : 
 
-<img src="assets/simon.png" width="300">
-<img src="assets/vlad.png" width="300">
-<img src="assets/rostan.png" width="300">
-<img src="assets/adrian.png" width="300">
+<img src="assets/simon.png" width="200">
+<img src="assets/vlad.png" width="200">
+<img src="assets/rostan.png" width="200">
+<img src="assets/adrian.png" width="200">
 

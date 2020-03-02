@@ -24,11 +24,11 @@ We plan to expand this project list with **abL** and maybe various projects, wri
 
 Founders : 
 
-![simon](assets/simon.png "Simon Scatton")
+![simon](assets/simon.png "Simon Scatton" =250x)
 
-![vlad](assets/vlad.png "Vlad Argatu")
+![vlad](assets/vlad.png "Vlad Argatu" =250x)
 
-![rostan](assets/rostan.png "Rostan Tabet")
+![rostan](assets/rostan.png "Rostan Tabet" =250x)
 
-![adrian](assets/adrian.png "Adrian Le-Comte")
+![adrian](assets/adrian.png "Adrian Le-Comte" =250x)
 

@@ -24,11 +24,8 @@ We plan to expand this project list with **abL** and maybe various projects, wri
 
 Founders : 
 
-![simon](assets/simon.png =250x417)
-
-![vlad](assets/vlad.png =250x417)
-
-![rostan](assets/rostan.png  =250x417)
-
-![adrian](assets/adrian.png =250x417)
+<img src="assets/simon.png" width="300">
+<img src="assets/vlad.png" width="300">
+<img src="assets/rostan.png" width="300">
+<img src="assets/adrian.png" width="300">
 

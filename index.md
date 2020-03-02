@@ -23,9 +23,9 @@ We plan to expand this project list with **abL** and maybe various projects, wri
 ## The team 
 
 Founders : 
-[img]: /assets/simon.png "Simon Scatton" [img]
-[img]: /assets/vlad.png "Vlad Argatu" [img]
-[img]: /assets/rostan.png "Rostan Tabet" [img]
-[img]: /assets/adrian.png "Adrian Le-Comte" [img]
+![simon] (/assets/simon.png "Simon Scatton")
+![vlad] (/assets/vlad.png "Vlad Argatu")
+![rostan] (/assets/rostan.png "Rostan Tabet")
+![adrian] (/assets/adrian.png "Adrian Le-Comte")
 
 

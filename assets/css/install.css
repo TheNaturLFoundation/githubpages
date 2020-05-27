@@ -11,6 +11,12 @@
   top: 100px;
   left: 375px;
 }
+.container3
+{
+  position: relative;
+  width: 75%;
+  top: 100px;
+}
 
 .image {
   display: block;
@@ -36,6 +42,9 @@
 }
 
 .container2:hover .overlay {
+  opacity: 1;
+}
+.container3:hover .overlay {
   opacity: 1;
 }
 

@@ -91,7 +91,7 @@
 }
 .logo
 {
-	transition: transform 42s linear 420s
+	transition: transform 42s linear 42s
 }
 .logo:hover
 {
